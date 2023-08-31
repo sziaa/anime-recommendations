@@ -12,3 +12,8 @@ Requirements:
 
 Clone the repository and run Anime Reccomendation Data Analysis.py. At the end of the code, add in 'recommendation(*_insert your anime name_*)' and run again. 
 
+References:
+
+Aditya Khadilkar, Face-tracking-with-Anime-characters, Githib Repository
+
+https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters/tree/master
