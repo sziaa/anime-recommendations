@@ -16,5 +16,4 @@ References:
 
 Aditya Khadilkar, Face-tracking-with-Anime-characters, Githib Repository
 
-
 https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters/tree/master
