@@ -12,5 +12,5 @@ Requirements:
 - scikit-learn
 - numpy
 
-Clone the repository and run Anime Reccomendation Data Analysis.py (i use jupyter lab). At the end of the code, add in 'recommendation(*_insert your anime name_*)' and run again. 
+Clone the repository and run Anime Reccomendation Data Analysis.py (jupyter lab). At the end of the code, add in 'recommendation(*_insert your anime name_*)' and run again. 
 
