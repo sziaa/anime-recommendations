@@ -162,12 +162,9 @@ df1 = pd.read_csv('anime.csv', delimiter=',', nrows = nRowsRead)
 df1.dataframeName = 'anime.csv'
 nRow, nCol = df1.shape
 print(f'There are {nRow} rows and {nCol} columns')
-
-#Check data
-d = df1.head(5)
-d
+    
 #Display the histograms/bargraphs of the data sets
-#hist_per_col(df1, 10, 5)
+hist_per_col(df1, 10, 5)
 
 
 
