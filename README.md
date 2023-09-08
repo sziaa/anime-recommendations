@@ -14,5 +14,5 @@ Clone the repository and run Anime Reccomendation Data Analysis.py. At the end o
 
 References:
 
-Aditya Khadilkar, Face-tracking-with-Anime-characters, Githib Repository:
-https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters/tree/master
+Sulaim Shaikh, Kaggle: https://www.kaggle.com/code/sulaimshaikh/anime-recommendation-project
+Bastain Bagas, Kaggle: https://www.kaggle.com/code/bastianbagas/starter-anime-recommendations-database-d0ac17ee-d
